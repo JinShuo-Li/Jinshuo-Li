@@ -1,16 +1,21 @@
 ## Hi there 👋
 
-<!--
-**JinShuo-Li/Jinshuo-Li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Li Jinshuo From Shanghai Jiao Tong University, freshman in IEEE Honor Class, interested in computer science, mathematics and physics.
 
-Here are some ideas to get you started:
+### Contact Info.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Contact me:   
+[ljs_2025@sjtu.edu.cn](mailto:ljs_2025@sjtu.edu.cn)
+[Jinshuo_Li@Hotmail.com](mailto:Jinshuo_Li@hotmail.com)
+
+### Skills
+
+Programming Language: Python.
+Mathematics: Calculus, Linear Algebra, Abstract Algebra, Discrete mathematics.
+
+### Personal Interests
+
+- Algorithm, Machine Learning.
+- Topology, Complex Analysis.
+
+**I'm always open to discussing technology, ideas, or potential collaborations—feel free to reach out!**
