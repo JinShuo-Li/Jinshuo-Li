@@ -5,7 +5,7 @@ I'm Li Jinshuo From Shanghai Jiao Tong University, freshman in IEEE Honor Class,
 ### Contact Info.
 
 Contact me:   
-[ljs_2025@sjtu.edu.cn](mailto:ljs_2025@sjtu.edu.cn)
+[ljs_2025@sjtu.edu.cn](mailto:ljs_2025@sjtu.edu.cn)   
 [Jinshuo_Li@Hotmail.com](mailto:Jinshuo_Li@hotmail.com)
 
 ### Skills
