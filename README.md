@@ -10,12 +10,12 @@ Contact me:
 
 ### Skills
 
-Programming Language: Python.
+Programming Language: Python.   
 Mathematics: Calculus, Linear Algebra, Abstract Algebra, Discrete mathematics.
 
 ### Personal Interests
 
-- Algorithm, Machine Learning.
+- Algorithm, Machine Learning.   
 - Topology, Complex Analysis.
 
 **I'm always open to discussing technology, ideas, or potential collaborations—feel free to reach out!**
