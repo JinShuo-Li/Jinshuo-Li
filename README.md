@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Li Jinshuo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
-  <em>Freshman @ <strong>Shanghai Jiao Tong University (SJTU)</strong></em><br>
+  <em>Undergraduate at <strong>Shanghai Jiao Tong University (SJTU)</strong></em><br>
   <em>IEEE Honor Class | CS, Math & Physics Enthusiast</em>
 </p>
 
@@ -19,21 +19,30 @@
 
 ---
 
-### 📫 Contact Info
+### 🛠️ Tech Stack & Tools
 
-- **SJTU Email**: [ljs_2025@sjtu.edu.cn](mailto:ljs_2025@sjtu.edu.cn)
-- **Personal Email**: [Jinshuo_Li@hotmail.com](mailto:Jinshuo_Li@hotmail.com)
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
+  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white" />
+</p>
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 Featured Projects
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JinShuo-Li&show_icons=true&theme=radical&hide_border=true" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JinShuo-Li&layout=compact&theme=radical&hide_border=true" height="180" alt="languages graph" />
-</div>
+| Project | Description |
+| :--- | :--- |
+| **Beijing Subway Navigator** | Terminal-based navigation system using custom Matrix & Graph implementations. |
+| **Math Analysis Notes** | Comprehensive notes for Mathematical Analysis (English & Chinese). |
+| **Linear Algebra Notes** | Final exam review notes for Linear Algebra. |
+| **Personal Website** | My portfolio website hosted on GitHub Pages. |
 
-<br>
+---
 
 ### 🐍 My Contribution Snake
 <div align="center">
@@ -42,10 +51,7 @@
 
 ---
 
-### 🛠️ Skills & Tools
-<div align="center">
-	<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-	<img src="https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white" />
-    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/Algorithm-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white" />
-</div>
+### 📫 Contact Info
+
+- **SJTU Email**: [ljs_2025@sjtu.edu.cn](mailto:ljs_2025@sjtu.edu.cn)
+- **Personal Email**: [Jinshuo_Li@hotmail.com](mailto:Jinshuo_Li@hotmail.com)
