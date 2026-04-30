@@ -10,11 +10,11 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Current Status**: Freshman in **IEEE Honor Class**, SJTU.
-- 🔭 **Research Interests**: Algorithms, Machine Learning, Computer Science. Recently learning **Verilog** & **C++**.
+- 🔭 **Research Interests**: Algorithms, Machine Learning, Computer Science. Recently focusing on **Computer Vision** & **C++**.
 - 🧠 **Math Foundation**: 
   - Calculus, Linear Algebra
   - **Abstract Algebra**, **Discrete Mathematics**
-  - Learning: **Topology**, **Complex Analysis**
+  - Learning: **Topology**, **Complex Analysis**, **Analytical Mechanics**
 - 💬 **Collaboration**: I'm always open to discussing technology, ideas, or potential collaborations!
 
 ---
@@ -50,6 +50,5 @@
 
 ### 📫 Contact Info
 
-- **Website**: https://jinshuo-li.github.io/
-- **SJTU Email**: [ljs_2025@sjtu.edu.cn](mailto:ljs_2025@sjtu.edu.cn)
+- **School's Email**: [ljs_2025@sjtu.edu.cn](mailto:ljs_2025@sjtu.edu.cn)
 - **Personal Email**: [Jinshuo_Li@hotmail.com](mailto:Jinshuo_Li@hotmail.com)
