@@ -10,11 +10,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 **Current Status**: Freshman in **IEEE Honor Class**, SJTU.
-- 🔭 **Research Interests**: Algorithms, Machine Learning, Computer Science. Recently focusing on **Computer Vision** & **C++**.
-- 🧠 **Math Foundation**: 
-  - Calculus, Linear Algebra
-  - **Abstract Algebra**, **Discrete Mathematics**
-  - Learning: **Topology**, **Complex Analysis**, **Analytical Mechanics**
+- 🔭 **Research Interests**: Machine Learning, Computer Science. Recently focusing on **Computer Vision**.
 - 💬 **Collaboration**: I'm always open to discussing technology, ideas, or potential collaborations!
 
 ---
@@ -37,14 +33,6 @@
 
 - [FACC](https://github.com/JinShuo-Li/FACC) — FACC (FPGA Based Assembly Computer), a FPGA-based custom computer with its own assembly language and toolchain. *(Verilog)*
 - [Mathematical-Note](https://github.com/JinShuo-Li/Mathematical-Note) — A comprehensive mathematical note covering analysis, linear algebra, abstract algebra, and more.
-- [SJTU-IEEE-First-Semester-Freshman-Course-Notes-and-Materials](https://github.com/JinShuo-Li/SJTU-IEEE-First-Semester-Freshman-Course-Notes-and-Materials) — MATH1203 Mathematical Analysis, MATH1205 Linear Algebra, CS1601 Discrete Mathematics, CS1602 Intro. to Computers and Programming.
-
----
-
-### 🐍 My Contribution Snake
-<div align="center">
-  <img src="https://github.com/JinShuo-Li/JinShuo-Li/raw/output/github-contribution-grid-snake.svg" alt="snake contribution" />
-</div>
 
 ---
 
