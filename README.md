@@ -32,7 +32,7 @@
 ### 📌 Featured Projects
 
 - [FACC](https://github.com/JinShuo-Li/FACC) — FACC (FPGA Based Assembly Computer), a FPGA-based custom computer with its own assembly language and toolchain. *(Verilog)*
-- [Mathematical-Note](https://github.com/JinShuo-Li/Mathematical-Note) — A comprehensive mathematical note covering analysis, linear algebra, abstract algebra, and more.
+- [Mathematical-Note](https://github.com/JinShuo-Li/Mathematical-Note) — A mathematical note covering analysis, linear algebra, abstract algebra, and more.
 
 ---
 
