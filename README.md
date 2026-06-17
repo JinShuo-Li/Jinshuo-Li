@@ -46,13 +46,15 @@
 * [Mathematical-Note](https://github.com/JinShuo-Li/Mathematical-Note) — Mathematical notes covering analysis, linear algebra, abstract algebra, and more.
 
 ---
-
 ### 📈 GitHub Activity
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=JinShuo-Li&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JinShuo-Li&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JinShuo-Li&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
 ---
 
 ### 📫 Contact
