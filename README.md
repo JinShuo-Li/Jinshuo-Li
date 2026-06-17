@@ -5,6 +5,21 @@
   <em>IEEE Honor Class | CS, Math & Physics Enthusiast</em>
 </p>
 
+<!-- Profile views -->
+![Profile views](https://komarev.com/ghpvc/?username=gmdurlu557&label=Profile%20views&color=0e75b6&style=flat)
+
+<!-- GitHub followers -->
+![GitHub followers](https://img.shields.io/github/followers/gmdurlu557?label=Followers&style=social)
+
+<!-- GitHub User's stars -->
+![GitHub User's stars](https://img.shields.io/github/stars/gmdurlu557?affiliations=OWNER%2CCOLLABORATOR&style=social)
+
+<!-- SJTU / AI / CV identity badges -->
+![SJTU](https://img.shields.io/badge/SJTU-Undergraduate-red?style=flat-square)
+![AI](https://img.shields.io/badge/Focus-Artificial%20Intelligence-blue?style=flat-square)
+![Computer Vision](https://img.shields.io/badge/Research-Computer%20Vision-green?style=flat-square)
+![Open Source](https://img.shields.io/badge/Open%20Source-Enthusiast-orange?style=flat-square)
+
 ---
 
 ### 👨‍💻 About Me
