@@ -52,11 +52,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JinShuo-Li&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JinShuo-Li&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
----
-
 ### 📫 Contact
 
 * **School Email**: [ljs_2025@sjtu.edu.cn](mailto:ljs_2025@sjtu.edu.cn)
