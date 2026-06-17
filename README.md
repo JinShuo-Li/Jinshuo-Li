@@ -7,7 +7,6 @@
 
 <!-- Profile views -->
 ![Profile views](https://komarev.com/ghpvc/?username=JinShuo-Li&label=Profile%20views&color=0e75b6&style=flat)
-<!-- SJTU / AI / CV identity badges -->
 ![SJTU](https://img.shields.io/badge/SJTU-Undergraduate-red?style=flat-square)
 ![AI](https://img.shields.io/badge/Focus-Artificial%20Intelligence-blue?style=flat-square)
 ![Computer Vision](https://img.shields.io/badge/Research-Computer%20Vision-green?style=flat-square)
