@@ -1,24 +1,28 @@
-<h1 align="center">Hi there, I'm Li Jinshuo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+  Hi, I'm Li Jinshuo 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
+</h1>
 
 <p align="center">
-  <em>Undergraduate at <strong>Shanghai Jiao Tong University (SJTU)</strong></em><br>
-  <em>IEEE Honor Class | CS, Math & Physics Enthusiast</em>
+  <em>Freshman in IEEE Honor Class, Shanghai Jiao Tong University</em><br>
+  <em>Interested in Computer Science, Mathematics, Physics, and Computer Vision</em>
 </p>
 
-<!-- Profile views -->
-![Profile views](https://komarev.com/ghpvc/?username=JinShuo-Li&label=Profile%20views&color=0e75b6&style=flat)
-![SJTU](https://img.shields.io/badge/SJTU-Undergraduate-red?style=flat-square)
-![AI](https://img.shields.io/badge/Focus-Artificial%20Intelligence-blue?style=flat-square)
-![Computer Vision](https://img.shields.io/badge/Research-Computer%20Vision-green?style=flat-square)
-![Open Source](https://img.shields.io/badge/Open%20Source-Enthusiast-orange?style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=JinShuo-Li&label=Profile%20views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/badge/SJTU-Undergraduate-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/Research-Computer%20Vision-green?style=flat-square" />
+  <img src="https://img.shields.io/badge/Open%20Source-Enthusiast-orange?style=flat-square" />
+</p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 **Current Status**: Freshman in **IEEE Honor Class**, SJTU.
-- 🔭 **Research Interests**: Machine Learning, Computer Science. Recently focusing on **Computer Vision**.
-- 💬 **Collaboration**: I'm always open to discussing technology, ideas, or potential collaborations!
+* 🎓 Freshman in **IEEE Honor Class**, **Shanghai Jiao Tong University**.
+* 🔭 Interested in **machine learning**, **computer vision**, and broader areas of **computer science**.
+* 💬 Open to discussions on technology, research ideas, and potential collaborations.
 
 ---
 
@@ -38,12 +42,20 @@
 
 ### 📌 Featured Projects
 
-- [FACC](https://github.com/JinShuo-Li/FACC) — FACC (FPGA Based Assembly Computer), a FPGA-based custom computer with its own assembly language. *(Verilog)*
-- [Mathematical-Note](https://github.com/JinShuo-Li/Mathematical-Note) — A mathematical note covering analysis, linear algebra, abstract algebra, and more.
+* [FACC](https://github.com/JinShuo-Li/FACC) — FPGA Based Assembly Computer: a custom FPGA-based computer with its own assembly language. *(Verilog)*
+* [Mathematical-Note](https://github.com/JinShuo-Li/Mathematical-Note) — Mathematical notes covering analysis, linear algebra, abstract algebra, and more.
 
 ---
 
-### 📫 Contact Info
+### 📈 GitHub Activity
 
-- **School's Email**: [ljs_2025@sjtu.edu.cn](mailto:ljs_2025@sjtu.edu.cn)
-- **Personal Email**: [Jinshuo_Li@hotmail.com](mailto:Jinshuo_Li@hotmail.com)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=JinShuo-Li&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+### 📫 Contact
+
+* **School Email**: [ljs_2025@sjtu.edu.cn](mailto:ljs_2025@sjtu.edu.cn)
+* **Personal Email**: [Jinshuo_Li@hotmail.com](mailto:Jinshuo_Li@hotmail.com)
