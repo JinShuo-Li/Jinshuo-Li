@@ -7,13 +7,6 @@
 
 <!-- Profile views -->
 ![Profile views](https://komarev.com/ghpvc/?username=JinShuo-Li&label=Profile%20views&color=0e75b6&style=flat)
-
-<!-- GitHub followers -->
-![GitHub followers](https://img.shields.io/github/followers/JinShuo-Li?label=Followers&style=social)
-
-<!-- GitHub User's stars -->
-![GitHub User's stars](https://img.shields.io/github/stars/JinShuo-Li?affiliations=OWNER%2CCOLLABORATOR&style=social)
-
 <!-- SJTU / AI / CV identity badges -->
 ![SJTU](https://img.shields.io/badge/SJTU-Undergraduate-red?style=flat-square)
 ![AI](https://img.shields.io/badge/Focus-Artificial%20Intelligence-blue?style=flat-square)
