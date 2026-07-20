@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <em>Freshman in IEEE Honor Class, Shanghai Jiao Tong University</em><br>
+  <em>Sophomore student in IEEE Honor Class, Shanghai Jiao Tong University</em><br>
   <em>Interested in Computer Science, Mathematics, Physics, and Computer Vision</em>
 </p>
 
