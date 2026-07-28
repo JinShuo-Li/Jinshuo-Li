@@ -20,7 +20,7 @@
 
 ### 👨‍💻 About Me
 
-* 🎓 Freshman in **IEEE Honor Class**, **Shanghai Jiao Tong University**.
+* 🎓 Sophomore in **IEEE Honor Class**, **Shanghai Jiao Tong University**.
 * 🔭 Interested in **machine learning**, **computer vision**, and broader areas of **computer science**.
 * 💬 Open to discussions on technology, research ideas, and potential collaborations.
 
