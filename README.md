@@ -42,10 +42,10 @@
 
 ### 📌 Featured Projects
 
-* [MiniTorch](https://github.com/JinShuo-Li/MiniTorch) — A simple realization of Torch built from scratch in Python. *(Python)* ![GitHub stars](https://img.shields.io/github/stars/JinShuo-Li/MiniTorch?style=flat-square)
-* [heterotorch](https://github.com/JinShuo-Li/heterotorch) — A PyTorch-style package for heterogeneous computing on Intel CPU / GPU / NPU. *(Python)* ![GitHub stars](https://img.shields.io/github/stars/JinShuo-Li/heterotorch?style=flat-square)
-* [Mathematical-Note](https://github.com/JinShuo-Li/Mathematical-Note) — Comprehensive mathematical notes covering analysis, linear algebra, abstract algebra, and more. *(TeX)* ![GitHub stars](https://img.shields.io/github/stars/JinShuo-Li/Mathematical-Note?style=flat-square)
-* [FACC](https://github.com/JinShuo-Li/FACC) — FPGA Based Assembly Computer: a custom FPGA-based computer with its own assembly language. *(Verilog)* ![GitHub stars](https://img.shields.io/github/stars/JinShuo-Li/FACC?style=flat-square)
+* [MiniTorch](https://github.com/JinShuo-Li/MiniTorch) — A simple realization of Torch built from scratch in Python. *(Python)*
+* [heterotorch](https://github.com/JinShuo-Li/heterotorch) — A PyTorch-style package for heterogeneous computing on Intel CPU / GPU / NPU. *(Python)*
+* [Mathematical-Note](https://github.com/JinShuo-Li/Mathematical-Note) — Comprehensive mathematical notes covering analysis, linear algebra, abstract algebra, and more. *(TeX)*
+* [FACC](https://github.com/JinShuo-Li/FACC) — FPGA Based Assembly Computer: a custom FPGA-based computer with its own assembly language. *(Verilog)*
 
 ---
 
