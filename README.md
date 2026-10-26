@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white" />
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jinshuo-Li&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JinShuo-Li&theme=tokyonight)](https://git.io/streak-stats)
 
 ---
 
