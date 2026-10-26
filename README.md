@@ -37,8 +37,6 @@
   <img src="https://img.shields.io/badge/Algorithms-FF6F00?style=for-the-badge&logo=leetcode&logoColor=white" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JinShuo-Li&theme=tokyonight)](https://git.io/streak-stats)
-
 ---
 
 ### 📌 Featured Projects
@@ -55,3 +53,9 @@
 * **School Email**: [ljs_2025@sjtu.edu.cn](mailto:ljs_2025@sjtu.edu.cn)
 * **Personal Email**: [Jinshuo_Li@hotmail.com](mailto:Jinshuo_Li@hotmail.com)
 * **Blog**: [jinshuo-li.github.io](https://jinshuo-li.github.io/)
+
+### Contributions
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JinShuo-Li&theme=tokyonight)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JinShuo-Li&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
