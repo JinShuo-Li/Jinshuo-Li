@@ -56,4 +56,4 @@
 
 ### Contributions
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JinShuo-Li&theme=tokyonight)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JinShuo-Li&theme=light)](https://git.io/streak-stats)
