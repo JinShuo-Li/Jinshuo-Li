@@ -12,6 +12,5 @@
 
 ### 📫 Contact
 
-* **School Email**: [ljs_2025@sjtu.edu.cn](mailto:ljs_2025@sjtu.edu.cn)
-* **Personal Email**: [Jinshuo_Li@hotmail.com](mailto:Jinshuo_Li@hotmail.com)
+* **Email**: [ljs_2025@sjtu.edu.cn](mailto:ljs_2025@sjtu.edu.cn)
 * **Blog**: [jinshuo-li.github.io](https://jinshuo-li.github.io/)
